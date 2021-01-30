@@ -1,4 +1,6 @@
 #simbolos {} +
+autor = '@alexis.z40'
+
 import requests
 import json
 import os
